@@ -1,0 +1,186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the loyall resolution of the Kingdome of Scotland. Being a voluntary oath by them taken for the preservation of his Maiesties Sacred Person, and for the maintenance of his undoubed [sic] rights and priviledges to his severall kingdomes. With their protestation of severe prosecution against all those that shall attempt, impugne, or by any sinister meanes be abettors, councellors, undertakers or disturbers of the same.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82182</idno>
+            <idno type="STC">Wing D708</idno>
+            <idno type="STC">Thomason E109_18</idno>
+            <idno type="STC">ESTC R11232</idno>
+            <idno type="EEBO-CITATION">99858962</idno>
+            <idno type="PROQUEST">99858962</idno>
+            <idno type="VID">111022</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82182)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111022)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E109[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the loyall resolution of the Kingdome of Scotland. Being a voluntary oath by them taken for the preservation of his Maiesties Sacred Person, and for the maintenance of his undoubed [sic] rights and priviledges to his severall kingdomes. With their protestation of severe prosecution against all those that shall attempt, impugne, or by any sinister meanes be abettors, councellors, undertakers or disturbers of the same.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Stretton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>August 6. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Scotland --  History --  Charles I, 1625-1649 --  Sources --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111022:1"/>
+            <pb facs="tcp:111022:1" rendition="simple:additions"/>
+            <p>A Declaration of the Loyall RESOLVTION of the Kingdome of SCOTLAND.</p>
+            <p>BEING A voluntary Oath by them taken for the Preſer<g ref="char:EOLhyphen"/>vation of his MAIESTIES Sacred Perſon, and for the Maintenance of his undoubed Rights and Pri<g ref="char:EOLhyphen"/>viledges to his ſeverall Kingdomes.</p>
+            <p>WITH Their <hi>Proteſtation</hi> of ſevere proſecution againſt all thoſe that ſhall attempt, impugne, or by any ſiniſter meanes be Abettors, Coun<g ref="char:EOLhyphen"/>cellors, undertakers, or Diſturbers of the ſame.</p>
+            <p>
+               <hi>London,</hi> Printed for W. STRETTON. <hi>Auguſt,</hi> 6. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:111022:2"/>
+            <pb facs="tcp:111022:2"/>
+            <head>A generall Band voluntarily made by the good Subjects of the Kings Majeſty of <hi>Scotland,</hi> for the preſervation of his High<g ref="char:EOLhyphen"/>neſſe perſon, and of his undoubted Right to the Crownes of <hi>England</hi> and <hi>Ireland.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">F</seg>Oraſmuch as the Providence of God hes eſtabliſhed King<g ref="char:EOLhyphen"/>domes and Monarchies, and hes appointed Kings and Princes to beare rule over the ſame, repre<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enting his Divine power in mi<g ref="char:EOLhyphen"/>niſtration of Iuſtice to their Subjects, and ho<g ref="char:EOLhyphen"/>nouring him by the eſtabliſhing true and Chriſtian Religion according to his word. In contemplating of which benefits to the redownding of the people by the lawfull authority of the Prince, they are bound to love, reverence and obey, their native Sove<g ref="char:EOLhyphen"/>raignes, to procure at their uttermoſt power, their ſtanding and advancement or eſtate; To reſiſt and withſtand all and whatſoever
+<pb facs="tcp:111022:3"/>practizes or attempts which may be hurtfull to their perſon or eſtate; Therefore we un<g ref="char:EOLhyphen"/>derſubſcrivand the naturall and loyall borne Subjects of this Realme, calling to memory and finding daily before our eyes the great felicity, and ineſtimable comfort wherewith the moſt happie and gracious Raigne of our Soverai<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne hath inriched us, and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he won<g ref="char:EOLhyphen"/>derfull q<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>neſſe wherewith we a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e by Gods providence and his Highneſſe p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>udent go<g ref="char:EOLhyphen"/>vernment, in ſo univerſall troubles of all <hi>Eu<g ref="char:EOLhyphen"/>rope</hi> being bleſſed, acknowledging our ſelves moſt juſtly bound with our Lives<g ref="char:punc">▪</g> lands, goods, and geere in his defence and ſafety <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>gainſt whomſoever, of what Nation, degree or quality ſoever they be that would direct<g ref="char:EOLhyphen"/>ly or indirectly a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tempt any harme againſt his Sacred perſon or eſtate; Therefore wee and every one of us conjunctly and ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>verally in the preſence of the Almighty power; <hi>By whom Princes rule</hi> (whom we call upon, not onely as a me<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne but the juſt avenger of ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke as ſhall violate and contravene theſe preſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nts) of our owne free motive and will binds and obliſeth o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r ſelves ilke one of Us to others, in that bond and holy Society whereby wee
+<pb facs="tcp:111022:3"/>ſolemnly vow and promiſe before the great God, with our whole powers, bodies, lives, lands, goods, children, ſervants, and all that are under our Commandement, truly and faithfully to ſerve and humbly to obey our ſaid Soveraigne Lord, againſt all eſtates, dig<g ref="char:EOLhyphen"/>nities and earthly Princes whatſoever, to in<g ref="char:EOLhyphen"/>vade and purſue by all manner of hoſtilitie, aſwell by force of Armes, as by all other meanes, all ſorts of perſons, their Complices, aſſiſtants and partaker<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, as ſhall attempt or undertake, by Deed, Counſell, or conſent to any practice that in any reſpect may tend to the harme of his Majeſties moſt Royall per<g ref="char:EOLhyphen"/>ſon, honour, eſtate or dignity, and ſhall never deſiſt from any manner of hoſtile purſuit of ſuch traiterous. Tyrants, till they, their Coun<g ref="char:EOLhyphen"/>cellors, Leaders and partakers be all utterly routed out, to the Example of others upon then ſpearance of impunity to attempt the like. And becauſe Almighty God amongſt other his eneſtimable Bleſſi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gs which he hath multiplied upon our ſaid Soveraigne Lord, to <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> glory and our great comfort, hath eſta<g ref="char:EOLhyphen"/>bliſhed the undoubted Right of the Crowne of <hi>England</hi> and <hi>Ireland</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o his Majeſties moſt
+<pb facs="tcp:111022:4"/>Royall Perſon, which notwithſtanding divers perſons upon frivolous and impertinent pre<g ref="char:EOLhyphen"/>tenſions, would goe about to impugne con<g ref="char:EOLhyphen"/>trary to his Birth-right and the moſt ancient and allowed Lawes of both the Realmes, whereof we upon our bounden duty to our native Soveraigne, and moved in Conſcience to advance the righteous Succeſſour, ſolemn<g ref="char:EOLhyphen"/>ly vow and proteſt by the name of the great God, not only at our uttermoſt power and ſtate to maintaine and defend our Soveraigne in his undoubted Right and Title to the Crownes of <hi>England</hi> and <hi>Ireland,</hi> againe all o<g ref="char:EOLhyphen"/>ther pretendors whatſoever, but likewiſe ſhall readily without any drift or excuſe up<g ref="char:EOLhyphen"/>on whatſoever pretext, beſtow our ſelves, our lives, Children, ſervants, friends, goods and geere whatſoever, in the purſuit thereof a<g ref="char:EOLhyphen"/>gainſt whatſoever perſons that ſhall hinder, impugne, or withſtand his Majeſty or his Heires, in the peaceable injoying or poſſeſ<g ref="char:EOLhyphen"/>ſing of the ſaid Crownes of <hi>England</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> and ſhall by all forcible meanes take the uttermoſt revenge upon them, their Leaders, Councellors, partakers or aſſiſtants, that by any meanes poſſible we or any of us can Ex<g ref="char:EOLhyphen"/>cogitate
+<pb facs="tcp:111022:4"/>or deviſe, and never deſiſt till wee have eſtabliſhed our deareſt Soveraigne, or (in caſe of his Deceaſe before, which God for<g ref="char:EOLhyphen"/>bid) his Heires or Succeſſours in the Royall Kingdome of <hi>Jreland,</hi> and preacable fruition of the ſame. And for the more Corroborati<g ref="char:EOLhyphen"/>on of this our voluntary Bond and entry in ſo holy and lawfull a Society, we and every one of us under ſubſcriv<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd, confirme the holy Contents thereof by our ſolemne oathes taken upon the holy Scriptures with this expreſſe Condition; That none of us ſhall upon any reſpect of perſons, or cauſe for feare of danger, or hope of Reward, ſeperate our ſelves f om this Condition, nor faile in any part of the premiſſes during our life-times. And giff we doe the contrary (as God forbid) That wee by our moſt gracious Soveraigne, his Heires and the reſt of our Society, be not onely reputed as perjured perſons unworthy to beare Office in any Chriſtien Realme, or civill Common weale, but al<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o to be proſe<g ref="char:EOLhyphen"/>cuted as moſt vilde and deteſtable Traytors and publike enemies to God, our ſoveraigne Prince, and na<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ive Countrey; To the which puniſhment and paine, wee doe voluntarily
+<pb facs="tcp:111022:5"/>ſubmit our ſelves and every one of us with<g ref="char:EOLhyphen"/>out appellation or reclamation, like as wee are content that theſe preſents be ratified by the State by the next Parliament, and pre<g ref="char:EOLhyphen"/>ſently inſerted and regiſtred in the Bookes of the Councell <hi>ad futuram rei memoriam,</hi> and that Execution royall may be directed there<g ref="char:EOLhyphen"/>upon in forme as afore. In witneſſe whereof to this preſent Band ſubſcrivand with our Hands, our ſeales of Armes <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e affixed, &amp;c.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
